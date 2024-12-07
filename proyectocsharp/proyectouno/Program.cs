@@ -13,6 +13,7 @@ namespace Kali {
 	    List<int> miLista = new List<int>();
 	    miLista.Add(8);
 	    miLista.Add(12);
+	    miLista.Add(23);	
 	    miLista.Add(4);
 	    foreach (int nu in miLista){
 		    Console.Write(nu +" ");
