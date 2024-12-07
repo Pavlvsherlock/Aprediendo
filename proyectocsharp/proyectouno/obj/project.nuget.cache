@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HMqhhQF/qQMOw3dfo3upOQPX/KsKKcp6ulA2qvm+2/vcgYbWON+VFI7y8jMKgOo5l81PaOuDXlgT9vdIH6aRQ==",
+  "success": true,
+  "projectFilePath": "/home/convidado/gitutorial/proyectocsharp/proyectouno/proyectouno.csproj",
+  "expectedPackageFiles": [
+    "/home/convidado/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/convidado/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/convidado/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

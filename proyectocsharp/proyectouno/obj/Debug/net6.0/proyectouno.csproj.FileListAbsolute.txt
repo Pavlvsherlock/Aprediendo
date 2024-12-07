@@ -1,0 +1,15 @@
+/home/convidado/gitutorial/proyectocsharp/proyectouno/bin/Debug/net6.0/proyectouno
+/home/convidado/gitutorial/proyectocsharp/proyectouno/bin/Debug/net6.0/proyectouno.deps.json
+/home/convidado/gitutorial/proyectocsharp/proyectouno/bin/Debug/net6.0/proyectouno.runtimeconfig.json
+/home/convidado/gitutorial/proyectocsharp/proyectouno/bin/Debug/net6.0/proyectouno.dll
+/home/convidado/gitutorial/proyectocsharp/proyectouno/bin/Debug/net6.0/proyectouno.pdb
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.csproj.AssemblyReference.cache
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.GeneratedMSBuildEditorConfig.editorconfig
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.AssemblyInfoInputs.cache
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.AssemblyInfo.cs
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.csproj.CoreCompileInputs.cache
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.dll
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/refint/proyectouno.dll
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.pdb
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.genruntimeconfig.cache
+/home/convidado/gitutorial/proyectocsharp/proyectouno/obj/Debug/net6.0/ref/proyectouno.dll
