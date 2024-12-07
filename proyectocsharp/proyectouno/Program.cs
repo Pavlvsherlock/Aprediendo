@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// programa inútil excepto como practica
 using System;
 using System.Collections.Generic;
 using System.Linq;
