@@ -1,2 +1,5 @@
 codigo.cpp
 /proyectocsharp/.vscode/
+*.json
+*.cache
+
