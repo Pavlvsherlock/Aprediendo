@@ -2,4 +2,5 @@ codigo.cpp
 /proyectocsharp/.vscode/
 *.json
 *.cache
-
+*.sln
+proyectocsharp/proyectouno/bin/
