@@ -1,6 +1,8 @@
-codigo.cpp
+
 /proyectocsharp/.vscode/
 *.json
 *.cache
 *.sln
 proyectocsharp/proyectouno/bin/
+proyectocsharp/proyectouno.sln
+proyectocsharp/proyectouno/bin/Debug/
