@@ -3,6 +3,7 @@
 *.json
 *.cache
 *.sln
-proyectocsharp/proyectouno/bin/
+~/gitutorial/proyectocsharp/proyectouno/bin/
 proyectocsharp/proyectouno.sln
+proyectocsharp/proyectouno/obj/
 proyectocsharp/proyectouno/bin/Debug/
