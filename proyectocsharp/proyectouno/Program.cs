@@ -32,9 +32,13 @@ namespace Kali {
         Console.WriteLine("suma total: " +total);
         
 	Console.Write("Cómo te chamas? ");
-        string nombre=Console.ReadLine();
-        Console.WriteLine("Hola {0}",nombre);
+        string? nombre=Console.ReadLine();
+        if (nombre=="Azrael" || nombre=="azrael")
         
+        Console.WriteLine("Que nombre mais feo, ti chamaste tonecho"); 
+        else
+        
+        Console.WriteLine("Hola {0}",nombre);
 
     }
     }
