@@ -3,9 +3,9 @@
 *.json
 *.cache
 *.sln
-~/gitutorial/proyectocsharp/proyectouno/bin/
+proyectocsharp/proyectouno/bin/
 proyectocsharp/proyectouno.sln
 proyectocsharp/proyectouno/obj/
-proyectocsharp/proyectouno/bin/Debug/
+~/gitutorial/proyectocsharp/proyectouno/bin/Debug/
 proyectocsharp/proyectouno/obj/Debug/net6.0/proyectouno.pdb
 
