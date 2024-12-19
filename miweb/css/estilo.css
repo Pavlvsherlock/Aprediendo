@@ -2,3 +2,17 @@ body{
     background-color: rgb(255, 80, 118);
     color:rgb(7, 30, 160);
 }
+footer{
+    background-color: rgb(7, 30, 160);
+    color:rgb(255, 80, 118);
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+}
+h2{
+    text-align: center;
+    text-decoration: solid;
+}
