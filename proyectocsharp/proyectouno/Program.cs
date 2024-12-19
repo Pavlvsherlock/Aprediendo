@@ -36,6 +36,9 @@ namespace Kali {
         if (nombre=="Azrael" || nombre=="azrael")
         
         Console.WriteLine("Que nombre mais feo, ti chamaste tonecho"); 
+        
+        else if (nombre=="Elena")
+        Console.WriteLine("Non me aburras");
         else
         
         Console.WriteLine("Hola {0}",nombre);
