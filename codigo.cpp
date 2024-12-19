@@ -3,8 +3,8 @@
 using namespace std;
 int main (){
 
-    cout<<("hola mundo");
+    cout<<"hola mundo" << "\n";
     int numero=121;
-    cout <<(numero+100); 
+    cout <<numero+100 <<"\n"; 
 }
  
