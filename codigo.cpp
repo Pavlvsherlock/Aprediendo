@@ -2,5 +2,5 @@
 
 void main (){
     cout<<("hola mundo");
-    int numero=0;
+    int numero=12;
 }
